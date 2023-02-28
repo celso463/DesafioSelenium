@@ -14,7 +14,7 @@ public class ProjetoDiego {
 
 public static void main(String[] args) {
 
-	
+//TestGit
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Gordo\\Downloads\\Chrome driver\\chromedriver2.exe");
 
 	WebDriver driver = new ChromeDriver();
